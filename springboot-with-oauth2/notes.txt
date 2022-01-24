@@ -1,2 +1,9 @@
 Examples
+
+https://spring.io/guides/tutorials/spring-boot-oauth2/
+
 https://medium.com/swlh/spring-boot-oauth2-login-with-github-88b178e0c004
+
+https://www.baeldung.com/spring-security-5-oauth2-login
+
+https://www.codejava.net/frameworks/spring-boot/oauth2-login-with-github-example
